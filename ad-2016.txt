@@ -1,5 +1,5 @@
 {
-	"AWSTemplateFormatVersion": "2010-09-09",
+	"AWSTkowpefjodbvhcjsnkqwdjo3ryiehasjnkdhiqweoasjnk, memplateFormatVersion": "2010-09-09",
 	"Description": "This template creates 2 Active Directory Domain Controllers into private subnets in separate Availability Zones inside a VPC.",
 	"Metadata": {
 		"AWS::CloudFormation::Interface": {
